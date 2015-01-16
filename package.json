@@ -1,0 +1,17 @@
+{
+  "name": "libs-github-api",
+  "version": "1.0.0",
+  "description": "gather information on library GitHub projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phette23 <phette23@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0"
+  }
+}
