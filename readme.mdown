@@ -1,6 +1,6 @@
 # Analysis of Library GitHub Projects
 
-A project meant to bulk analyze programming languages used in libraries via the code in their GitHub projects.
+A project meant to bulk analyze programming languages used in libraries via the code in their GitHub projects. Extracted data is included in the "data" directory, which holds some JSON information on library GitHub repositories and a couple CSVs on the programming languages used therein.
 
 # Setup
 
@@ -46,3 +46,7 @@ They all print results to stdout.
 - [GitHub's API documentation](https://developer.github.com/)
 - [Basic Authentication](https://developer.github.com/v3/auth/#basic-authentication)
 - [Libraries Sharing Code](http://wiki.code4lib.org/List_of_Library_Github_Accounts) page on the Code4Lib wiki
+
+# License
+
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain
