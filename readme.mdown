@@ -1,6 +1,6 @@
 # Analysis of Library GitHub Projects
 
-A project meant to bulk analyze programming languages used in libraries via the code in their GitHub projects. Extracted data is included in the "data" directory, which holds some JSON information on library GitHub repositories and a couple CSVs on the programming languages used therein.
+Bulk analyzing programming languages used in libraries via the code in their GitHub projects. Extracted data is included in the "data" directory, which holds some JSON information on library GitHub repositories and a couple CSVs on the programming languages used therein.
 
 # Setup
 
@@ -8,7 +8,7 @@ A project meant to bulk analyze programming languages used in libraries via the 
 > npm install
 ```
 
-To pull down a fresh copy of all data, you should be able to run:
+To pull down a fresh copy of all data, you can run:
 
 ```sh
 > # scrape Code4Lib wiki for repo names & URLs
@@ -17,15 +17,15 @@ To pull down a fresh copy of all data, you should be able to run:
 > node index > repos.json
 ```
 
-You can quickly run into GitHub's API rate limits if you don't authenticate. The scripts that request info from the GitHub API will look for a `GH_TOKEN` environment variable and send it along. You can get one in [Settings > Applications](https://github.com/settings/applications) and it only needs "public_repo" access at a minimum.
+You can quickly run into GitHub's API rate limits if you don't authenticate. The scripts that request info from the GitHub API will look for a `GH_TOKEN` environment variable and send it along. You can get one in [Settings > Applications](https://github.com/settings/applications) and it only needs "public_repo" access.
 
 Once you have the GitHub API data, there are a couple tools for compiling basic totals.
 
 ```sh
 > # total LOC by language across all repos
-> node lib/totals data.json > totals.csv
+> node lib/totals repos.json > totals.csv
 > # number of repos where each lang is "primary" i.e. has most lines
-> node lib/primary-lang data.json > primary-lang.csv
+> node lib/primary-lang repos.json > primary-lang.csv
 ```
 
 # Scripts
