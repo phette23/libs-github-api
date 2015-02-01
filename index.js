@@ -3,9 +3,9 @@ var usernameFromUrl = require('./lib/username-from-url')
 var getOrgRepos = require('./lib/get-org-repos')
 var getRepoLanguages = require('./lib/get-repo-languages')
 
-var file = process.argv[3] || 'orgs.json'
+var file = process.argv[2] || 'orgs.json'
 var data = JSON.parse(fs.readFileSync(file))
-var limit = parseInt(process.argv[2]) || Infinity
+var limit = parseInt(process.argv[3]) || Infinity
 var orgsKey = 'Institutions on GitHub'
 // allow a limit to be passed, mainly for testing purposes
 // so `node index 2` only runs thru 1st 2 orgs

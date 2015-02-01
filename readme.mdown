@@ -14,7 +14,7 @@ To pull down a fresh copy of all data, you can run:
 > # scrape Code4Lib wiki for repo names & URLs
 > node lib/get-library-githubs-from-code4lib > orgs.json
 > # pull down language stats for all repos
-> node index > repos.json
+> node index orgs.json > repos.json
 ```
 
 You can quickly run into GitHub's API rate limits if you don't authenticate. The scripts that request info from the GitHub API will look for a `GH_TOKEN` environment variable and send it along. You can get one in [Settings > Applications](https://github.com/settings/applications) and it only needs "public_repo" access.
