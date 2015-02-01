@@ -1,5 +1,5 @@
 {
-    "Timestamp": "2015-01-15T23:46:06.704Z",
+    "Timestamp": "2015-02-01T03:25:32.889Z",
     "Institutions on GitHub": [
         {
             "name": "Ann Arbor District Library",
@@ -217,9 +217,9 @@
                     "url": "https://github.com/BCLibCoop/nnels-drupal-themes-nnels_cals",
                     "primary_language": "CSS",
                     "languages": {
-                        "CSS": 101732,
+                        "CSS": 101656,
                         "JavaScript": 534,
-                        "PHP": 53136
+                        "PHP": 53208
                     }
                 },
                 {
@@ -233,10 +233,9 @@
                 {
                     "name": "nnels-drupal-modules-cals_forms",
                     "url": "https://github.com/BCLibCoop/nnels-drupal-modules-cals_forms",
-                    "primary_language": "PHP",
+                    "primary_language": "Perl",
                     "languages": {
-                        "Perl": 2607,
-                        "PHP": 4330
+                        "Perl": 2607
                     }
                 },
                 {
@@ -309,7 +308,7 @@
                     "url": "https://github.com/BCLibCoop/coop-slideshow",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "PHP": 52780,
+                        "PHP": 52923,
                         "CSS": 28183,
                         "JavaScript": 73941
                     }
@@ -347,7 +346,7 @@
                     "url": "https://github.com/BCLibCoop/puppet-module-buildbot",
                     "primary_language": "Puppet",
                     "languages": {
-                        "Puppet": 11448,
+                        "Puppet": 11449,
                         "Ruby": 400,
                         "Pascal": 508
                     }
@@ -357,8 +356,8 @@
                     "url": "https://github.com/BCLibCoop/puppetlabs-apache",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 287193,
-                        "Puppet": 120810,
+                        "Ruby": 312216,
+                        "Puppet": 130165,
                         "Pascal": 497
                     }
                 },
@@ -367,7 +366,7 @@
                     "url": "https://github.com/BCLibCoop/puppet-dokuwiki",
                     "primary_language": "Puppet",
                     "languages": {
-                        "Puppet": 4454
+                        "Puppet": 4493
                     }
                 },
                 {
@@ -387,6 +386,80 @@
                         "JavaScript": 195167,
                         "Shell": 2589,
                         "CSS": 133064
+                    }
+                },
+                {
+                    "name": "puppet-rt",
+                    "url": "https://github.com/BCLibCoop/puppet-rt",
+                    "primary_language": "Perl",
+                    "languages": {
+                        "Puppet": 12577,
+                        "Ruby": 400,
+                        "Pascal": 502,
+                        "Perl": 33881
+                    }
+                },
+                {
+                    "name": "puppet-ipa",
+                    "url": "https://github.com/BCLibCoop/puppet-ipa",
+                    "primary_language": "Puppet",
+                    "languages": {
+                        "Ruby": 43718,
+                        "Makefile": 7321,
+                        "Python": 17026,
+                        "Puppet": 205225,
+                        "Pascal": 3331
+                    }
+                },
+                {
+                    "name": "puppet-shorewall",
+                    "url": "https://github.com/BCLibCoop/puppet-shorewall",
+                    "primary_language": "Puppet",
+                    "languages": {
+                        "Makefile": 4963,
+                        "Ruby": 1579,
+                        "Puppet": 23764
+                    }
+                },
+                {
+                    "name": "puppet-ssh",
+                    "url": "https://github.com/BCLibCoop/puppet-ssh",
+                    "primary_language": "Puppet",
+                    "languages": {
+                        "Pascal": 6941,
+                        "Puppet": 49903,
+                        "Ruby": 4108
+                    }
+                },
+                {
+                    "name": "puppet-keepalived",
+                    "url": "https://github.com/BCLibCoop/puppet-keepalived",
+                    "primary_language": "Puppet",
+                    "languages": {
+                        "Makefile": 4979,
+                        "Shell": 458,
+                        "Ruby": 7130,
+                        "Puppet": 27534
+                    }
+                },
+                {
+                    "name": "puppet-puppet",
+                    "url": "https://github.com/BCLibCoop/puppet-puppet",
+                    "primary_language": "Puppet",
+                    "languages": {
+                        "Makefile": 4915,
+                        "Ruby": 1681,
+                        "Puppet": 35080,
+                        "Pascal": 1594
+                    }
+                },
+                {
+                    "name": "puppet-module-data",
+                    "url": "https://github.com/BCLibCoop/puppet-module-data",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Puppet": 249,
+                        "Ruby": 4542
                     }
                 }
             ]
@@ -433,11 +506,11 @@
                     "url": "https://github.com/BCLibraries/bcbento",
                     "primary_language": "PHP",
                     "languages": {
-                        "CSS": 4498,
                         "JavaScript": 16100,
-                        "Shell": 4284,
+                        "Shell": 2598,
                         "Ruby": 503,
-                        "PHP": 27652
+                        "PHP": 28408,
+                        "CSS": 4813
                     }
                 },
                 {
@@ -486,7 +559,7 @@
                         "Makefile": 3856,
                         "Shell": 2197,
                         "Python": 2420,
-                        "CSS": 67327,
+                        "CSS": 67329,
                         "JavaScript": 15703
                     }
                 },
@@ -584,9 +657,9 @@
                     "url": "https://github.com/britishlibrary/UniversalViewer",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "JavaScript": 3983230,
-                        "CSS": 95110,
-                        "TypeScript": 199359
+                        "JavaScript": 3989312,
+                        "TypeScript": 211469,
+                        "CSS": 98223
                     }
                 },
                 {
@@ -594,7 +667,7 @@
                     "url": "https://github.com/britishlibrary/UniversalViewerTests",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "JavaScript": 35078
+                        "JavaScript": 106375
                     }
                 },
                 {
@@ -602,8 +675,8 @@
                     "url": "https://github.com/britishlibrary/UniversalViewerExamples",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "JavaScript": 5147526,
-                        "CSS": 166750
+                        "JavaScript": 4558396,
+                        "CSS": 613960
                     }
                 },
                 {
@@ -611,7 +684,7 @@
                     "url": "https://github.com/britishlibrary/UniversalViewerDefaultTheme",
                     "primary_language": "CSS",
                     "languages": {
-                        "CSS": 58043
+                        "CSS": 58408
                     }
                 }
             ]
@@ -737,10 +810,10 @@
                     "url": "https://github.com/Brown-University-Library/ttwr",
                     "primary_language": "Python",
                     "languages": {
+                        "Python": 58620,
                         "XSLT": 3215,
                         "CSS": 5504,
-                        "Python": 42630,
-                        "JavaScript": 3374
+                        "JavaScript": 3692
                     }
                 },
                 {
@@ -885,7 +958,7 @@
                     "url": "https://github.com/Brown-University-Library/bul-traject",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 31244
+                        "Ruby": 31495
                     }
                 }
             ]
@@ -927,8 +1000,8 @@
                     "url": "https://github.com/cca/equella_theme",
                     "primary_language": "CSS",
                     "languages": {
-                        "JavaScript": 2058,
-                        "CSS": 45857
+                        "CSS": 42290,
+                        "JavaScript": 1649
                     }
                 },
                 {
@@ -952,11 +1025,11 @@
                     "url": "https://github.com/cca/ets_drupal",
                     "primary_language": "PHP",
                     "languages": {
-                        "PHP": 3218369,
-                        "JavaScript": 1400784,
-                        "CSS": 863762,
-                        "Shell": 60569,
-                        "Perl": 2078,
+                        "PHP": 3219673,
+                        "JavaScript": 1401196,
+                        "CSS": 619666,
+                        "Shell": 56494,
+                        "Perl": 6153,
                         "Python": 5734
                     }
                 },
@@ -1009,6 +1082,14 @@
                     "url": "https://github.com/cca/izops",
                     "primary_language": null,
                     "languages": {}
+                },
+                {
+                    "name": "moodle_ccaenrol_enrol",
+                    "url": "https://github.com/cca/moodle_ccaenrol_enrol",
+                    "primary_language": "PHP",
+                    "languages": {
+                        "PHP": 12956
+                    }
                 }
             ]
         },
@@ -1352,10 +1433,10 @@
                     "url": "https://github.com/cul/clio-spectrum",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 576046,
-                        "CoffeeScript": 35075,
+                        "Ruby": 576676,
+                        "CoffeeScript": 35295,
                         "JavaScript": 17963,
-                        "CSS": 57245,
+                        "CSS": 57247,
                         "Shell": 1258
                     }
                 },
@@ -1453,7 +1534,7 @@
                     "url": "https://github.com/cul/cul_scv_hydra",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 451689,
+                        "Ruby": 452078,
                         "JavaScript": 599,
                         "CSS": 546
                     }
@@ -1631,6 +1712,249 @@
             ]
         },
         {
+            "name": "Duke University Libraries",
+            "url": "https://github.com/duke-libraries",
+            "username": "duke-libraries",
+            "repos": [
+                {
+                    "name": "dul-hydra",
+                    "url": "https://github.com/duke-libraries/dul-hydra",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 470004,
+                        "JavaScript": 41215,
+                        "CSS": 20226,
+                        "XSLT": 14684
+                    }
+                },
+                {
+                    "name": "batch-ingest",
+                    "url": "https://github.com/duke-libraries/batch-ingest",
+                    "primary_language": "Shell",
+                    "languages": {
+                        "Shell": 21030
+                    }
+                },
+                {
+                    "name": "omeka-themes",
+                    "url": "https://github.com/duke-libraries/omeka-themes",
+                    "primary_language": "JavaScript",
+                    "languages": {
+                        "PHP": 229031,
+                        "JavaScript": 374241
+                    }
+                },
+                {
+                    "name": "omeka-exhibit-layouts",
+                    "url": "https://github.com/duke-libraries/omeka-exhibit-layouts",
+                    "primary_language": "PHP",
+                    "languages": {
+                        "PHP": 194377
+                    }
+                },
+                {
+                    "name": "fcn",
+                    "url": "https://github.com/duke-libraries/fcn",
+                    "primary_language": "PHP",
+                    "languages": {
+                        "PHP": 250595,
+                        "JavaScript": 28556,
+                        "CSS": 3973
+                    }
+                },
+                {
+                    "name": "devise-remote-user",
+                    "url": "https://github.com/duke-libraries/devise-remote-user",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 42705,
+                        "JavaScript": 599,
+                        "CSS": 546
+                    }
+                },
+                {
+                    "name": "duke-ir",
+                    "url": "https://github.com/duke-libraries/duke-ir",
+                    "primary_language": null,
+                    "languages": {}
+                },
+                {
+                    "name": "course-assets",
+                    "url": "https://github.com/duke-libraries/course-assets",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 127626,
+                        "JavaScript": 10673,
+                        "CSS": 929
+                    }
+                },
+                {
+                    "name": "drupal-asidebox",
+                    "url": "https://github.com/duke-libraries/drupal-asidebox",
+                    "primary_language": null,
+                    "languages": {}
+                },
+                {
+                    "name": "drupal-dul-timeline",
+                    "url": "https://github.com/duke-libraries/drupal-dul-timeline",
+                    "primary_language": "PHP",
+                    "languages": {
+                        "CSS": 7888,
+                        "JavaScript": 813,
+                        "PHP": 17042
+                    }
+                },
+                {
+                    "name": "directory-service",
+                    "url": "https://github.com/duke-libraries/directory-service",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 7530
+                    }
+                },
+                {
+                    "name": "drupal-dul-bento",
+                    "url": "https://github.com/duke-libraries/drupal-dul-bento",
+                    "primary_language": "JavaScript",
+                    "languages": {
+                        "CSS": 16905,
+                        "PHP": 67423,
+                        "JavaScript": 69011
+                    }
+                },
+                {
+                    "name": "cams",
+                    "url": "https://github.com/duke-libraries/cams",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 73106,
+                        "JavaScript": 734,
+                        "CSS": 590
+                    }
+                },
+                {
+                    "name": "tripod2-django",
+                    "url": "https://github.com/duke-libraries/tripod2-django",
+                    "primary_language": "Python",
+                    "languages": {
+                        "Python": 627272,
+                        "XSLT": 298368
+                    }
+                },
+                {
+                    "name": "hydra-validations",
+                    "url": "https://github.com/duke-libraries/hydra-validations",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 6341
+                    }
+                },
+                {
+                    "name": "drupal-dul-system",
+                    "url": "https://github.com/duke-libraries/drupal-dul-system",
+                    "primary_language": "PHP",
+                    "languages": {
+                        "CSS": 1940,
+                        "PHP": 14902,
+                        "JavaScript": 1625
+                    }
+                },
+                {
+                    "name": "hydra-roles",
+                    "url": "https://github.com/duke-libraries/hydra-roles",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 23438
+                    }
+                },
+                {
+                    "name": "ddr-models",
+                    "url": "https://github.com/duke-libraries/ddr-models",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 212460,
+                        "JavaScript": 599,
+                        "CSS": 683
+                    }
+                },
+                {
+                    "name": "ddr-public",
+                    "url": "https://github.com/duke-libraries/ddr-public",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 89777,
+                        "JavaScript": 727,
+                        "CSS": 1051
+                    }
+                },
+                {
+                    "name": "duke-libraries.github.io",
+                    "url": "https://github.com/duke-libraries/duke-libraries.github.io",
+                    "primary_language": "CSS",
+                    "languages": {
+                        "JavaScript": 48,
+                        "CSS": 15051,
+                        "Ruby": 48
+                    }
+                },
+                {
+                    "name": "ddr-antivirus",
+                    "url": "https://github.com/duke-libraries/ddr-antivirus",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 22793
+                    }
+                },
+                {
+                    "name": "tripod3",
+                    "url": "https://github.com/duke-libraries/tripod3",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 54672,
+                        "JavaScript": 727,
+                        "CSS": 738,
+                        "Shell": 5044
+                    }
+                },
+                {
+                    "name": "ddr-extraction",
+                    "url": "https://github.com/duke-libraries/ddr-extraction",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 16049
+                    }
+                },
+                {
+                    "name": "ezid-client",
+                    "url": "https://github.com/duke-libraries/ezid-client",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 55338
+                    }
+                },
+                {
+                    "name": "ddr-batch",
+                    "url": "https://github.com/duke-libraries/ddr-batch",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 197409,
+                        "JavaScript": 599,
+                        "CSS": 683
+                    }
+                },
+                {
+                    "name": "ddr-alerts",
+                    "url": "https://github.com/duke-libraries/ddr-alerts",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 25204,
+                        "JavaScript": 599,
+                        "CSS": 683
+                    }
+                }
+            ]
+        },
+        {
             "name": "George Washington University Libraries",
             "url": "https://github.com/gwu-libraries",
             "username": "gwu-libraries",
@@ -1695,9 +2019,9 @@
                     "url": "https://github.com/gwu-libraries/ETDApplication",
                     "primary_language": "Java",
                     "languages": {
-                        "Perl": 4755,
+                        "Perl": 4758,
                         "Shell": 68,
-                        "Java": 77994
+                        "Java": 78326
                     }
                 },
                 {
@@ -1758,7 +2082,7 @@
                     "primary_language": "Python",
                     "languages": {
                         "Makefile": 5584,
-                        "Python": 231453,
+                        "Python": 231538,
                         "CSS": 48143,
                         "JavaScript": 75416
                     }
@@ -1814,7 +2138,7 @@
                     "url": "https://github.com/gwu-libraries/launchpad",
                     "primary_language": "Python",
                     "languages": {
-                        "Python": 211012,
+                        "Python": 212704,
                         "CSS": 17031,
                         "JavaScript": 5584
                     }
@@ -1917,7 +2241,7 @@
                     "url": "https://github.com/Georgetown-University-Libraries/File-Analyzer",
                     "primary_language": "Java",
                     "languages": {
-                        "Java": 431916,
+                        "Java": 431652,
                         "XSLT": 39998
                     }
                 },
@@ -1965,10 +2289,10 @@
                     "url": "https://github.com/Georgetown-University-Libraries/batch-tools",
                     "primary_language": "PHP",
                     "languages": {
-                        "PHP": 242534,
+                        "PHP": 246347,
                         "Shell": 8259,
-                        "CSS": 3352,
-                        "JavaScript": 44795,
+                        "CSS": 3787,
+                        "JavaScript": 45952,
                         "XSLT": 1821
                     }
                 },
@@ -1983,7 +2307,7 @@
                     "url": "https://github.com/Georgetown-University-Libraries/Marc-File-Analyzer",
                     "primary_language": "Java",
                     "languages": {
-                        "Java": 37927
+                        "Java": 38088
                     }
                 },
                 {
@@ -2407,9 +2731,10 @@
                     "url": "https://github.com/LibraryOfCongress/wdl-viewer",
                     "primary_language": "JavaScript",
                     "languages": {
+                        "Makefile": 714,
                         "Ruby": 591,
-                        "CSS": 12365,
-                        "JavaScript": 34188
+                        "CSS": 17901,
+                        "JavaScript": 44228
                     }
                 },
                 {
@@ -2674,12 +2999,12 @@
                     "url": "https://github.com/ndlib/curate_nd",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 248144,
+                        "Ruby": 248760,
                         "CoffeeScript": 422,
-                        "JavaScript": 7719,
-                        "CSS": 23363,
+                        "JavaScript": 8465,
+                        "CSS": 21537,
                         "Puppet": 8854,
-                        "Shell": 6521,
+                        "Shell": 6571,
                         "XSLT": 22384
                     }
                 },
@@ -2688,8 +3013,8 @@
                     "url": "https://github.com/ndlib/ndlib.github.io",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 1040,
-                        "CSS": 899
+                        "CSS": 899,
+                        "Ruby": 3082
                     }
                 },
                 {
@@ -2980,10 +3305,10 @@
                     "primary_language": "CSS",
                     "languages": {
                         "Ruby": 3169,
-                        "JavaScript": 335830,
+                        "JavaScript": 338849,
                         "Shell": 5613,
-                        "CSS": 512200,
-                        "PHP": 119488
+                        "CSS": 503297,
+                        "PHP": 120338
                     }
                 },
                 {
@@ -3030,6 +3355,15 @@
                         "PHP": 1691,
                         "JavaScript": 22344,
                         "CSS": 66
+                    }
+                },
+                {
+                    "name": "ole-migrator-tools",
+                    "url": "https://github.com/NCSU-Libraries/ole-migrator-tools",
+                    "primary_language": "Groovy",
+                    "languages": {
+                        "Groovy": 111793,
+                        "Java": 14167
                     }
                 }
             ]
@@ -3145,15 +3479,6 @@
                         "CoffeeScript": 458,
                         "Ruby": 23728,
                         "JavaScript": 641
-                    }
-                },
-                {
-                    "name": "apachesolr",
-                    "url": "https://github.com/NYPL/apachesolr",
-                    "primary_language": "PHP",
-                    "languages": {
-                        "PHP": 158782,
-                        "JavaScript": 672
                     }
                 },
                 {
@@ -3314,6 +3639,14 @@
                     "url": "https://github.com/NYPL/SDKLauncher-iOS",
                     "primary_language": null,
                     "languages": {}
+                },
+                {
+                    "name": "tenprintcover-ios",
+                    "url": "https://github.com/NYPL/tenprintcover-ios",
+                    "primary_language": "Objective-C",
+                    "languages": {
+                        "Objective-C": 22636
+                    }
                 }
             ]
         },
@@ -3443,9 +3776,9 @@
                     "url": "https://github.com/NYULibraries/nyulibraries-assets",
                     "primary_language": "CSS",
                     "languages": {
-                        "Ruby": 44344,
+                        "Ruby": 44352,
                         "CoffeeScript": 7558,
-                        "CSS": 69905,
+                        "CSS": 69926,
                         "JavaScript": 641
                     }
                 },
@@ -3462,7 +3795,7 @@
                     "languages": {
                         "PHP": 1849,
                         "Perl": 96,
-                        "Shell": 22190
+                        "Shell": 30940
                     }
                 },
                 {
@@ -3524,7 +3857,7 @@
                     "url": "https://github.com/NYULibraries/acts_as_citable",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 32618,
+                        "Ruby": 30663,
                         "JavaScript": 599,
                         "CSS": 683
                     }
@@ -3565,7 +3898,7 @@
                     "url": "https://github.com/NYULibraries/mediacommons_modules",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "JavaScript": 24838,
+                        "JavaScript": 26456,
                         "CSS": 1559
                     }
                 },
@@ -3658,9 +3991,9 @@
                     "url": "https://github.com/RockefellerArchiveCenter/aeon-templates",
                     "primary_language": "CSS",
                     "languages": {
-                        "JavaScript": 61919,
+                        "JavaScript": 63134,
                         "XSLT": 45838,
-                        "CSS": 74888
+                        "CSS": 75439
                     }
                 }
             ]
@@ -3889,6 +4222,190 @@
             ]
         },
         {
+            "name": "Oregon State University Libraries & Press",
+            "url": "https://github.com/osulp",
+            "username": "osulp",
+            "repos": [
+                {
+                    "name": "Dev-Standards",
+                    "url": "https://github.com/osulp/Dev-Standards",
+                    "primary_language": null,
+                    "languages": {}
+                },
+                {
+                    "name": "valley-rails-generator",
+                    "url": "https://github.com/osulp/valley-rails-generator",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 17425
+                    }
+                },
+                {
+                    "name": "rubycas-client",
+                    "url": "https://github.com/osulp/rubycas-client",
+                    "primary_language": "Ruby",
+                    "languages": {}
+                },
+                {
+                    "name": "Room-Reservation",
+                    "url": "https://github.com/osulp/Room-Reservation",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 398042,
+                        "JavaScript": 24270,
+                        "CoffeeScript": 49737,
+                        "CSS": 37223,
+                        "Shell": 1733
+                    }
+                },
+                {
+                    "name": "active_fedora-crosswalks",
+                    "url": "https://github.com/osulp/active_fedora-crosswalks",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 26893
+                    }
+                },
+                {
+                    "name": "non-stupid-digest-assets",
+                    "url": "https://github.com/osulp/non-stupid-digest-assets",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 1777
+                    }
+                },
+                {
+                    "name": "CorvallisTour",
+                    "url": "https://github.com/osulp/CorvallisTour",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 43656,
+                        "JavaScript": 757,
+                        "CoffeeScript": 13052,
+                        "CSS": 1966,
+                        "Shell": 282
+                    }
+                },
+                {
+                    "name": "code4lib-pdx",
+                    "url": "https://github.com/osulp/code4lib-pdx",
+                    "primary_language": null,
+                    "languages": {}
+                },
+                {
+                    "name": "TabletNuke",
+                    "url": "https://github.com/osulp/TabletNuke",
+                    "primary_language": "Java",
+                    "languages": {
+                        "Java": 5549
+                    }
+                },
+                {
+                    "name": "opensearch",
+                    "url": "https://github.com/osulp/opensearch",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 13231
+                    }
+                },
+                {
+                    "name": "rubycas-client-rails",
+                    "url": "https://github.com/osulp/rubycas-client-rails",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 19908
+                    }
+                },
+                {
+                    "name": "BeaverTracks",
+                    "url": "https://github.com/osulp/BeaverTracks",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 55615,
+                        "JavaScript": 1071,
+                        "CoffeeScript": 687,
+                        "CSS": 8764
+                    }
+                },
+                {
+                    "name": "RailsTutorial",
+                    "url": "https://github.com/osulp/RailsTutorial",
+                    "primary_language": null,
+                    "languages": {}
+                },
+                {
+                    "name": "scarc-omeka-themes",
+                    "url": "https://github.com/osulp/scarc-omeka-themes",
+                    "primary_language": "CSS",
+                    "languages": {
+                        "PHP": 122411,
+                        "CSS": 370064,
+                        "JavaScript": 9542
+                    }
+                },
+                {
+                    "name": "ILLiad-Request-History",
+                    "url": "https://github.com/osulp/ILLiad-Request-History",
+                    "primary_language": "Lua",
+                    "languages": {
+                        "Lua": 1576
+                    }
+                },
+                {
+                    "name": "OSU-Art-Walk",
+                    "url": "https://github.com/osulp/OSU-Art-Walk",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 218496,
+                        "CoffeeScript": 505,
+                        "JavaScript": 26196,
+                        "CSS": 7402
+                    }
+                },
+                {
+                    "name": "find-a-friend",
+                    "url": "https://github.com/osulp/find-a-friend",
+                    "primary_language": "JavaScript",
+                    "languages": {
+                        "Ruby": 101359,
+                        "JavaScript": 1926734,
+                        "CoffeeScript": 1439,
+                        "CSS": 343890
+                    }
+                },
+                {
+                    "name": "building-oregon",
+                    "url": "https://github.com/osulp/building-oregon",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 67939,
+                        "CoffeeScript": 504,
+                        "JavaScript": 7104,
+                        "CSS": 309
+                    }
+                },
+                {
+                    "name": "primo",
+                    "url": "https://github.com/osulp/primo",
+                    "primary_language": "CSS",
+                    "languages": {
+                        "CSS": 52682
+                    }
+                },
+                {
+                    "name": "DataVisualizationHackathon",
+                    "url": "https://github.com/osulp/DataVisualizationHackathon",
+                    "primary_language": "CoffeeScript",
+                    "languages": {
+                        "Ruby": 17136,
+                        "CSS": 19308,
+                        "JavaScript": 5763,
+                        "CoffeeScript": 48604
+                    }
+                }
+            ]
+        },
+        {
             "name": "Penn State Digital Stewardship",
             "url": "https://github.com/psu-stewardship",
             "username": "psu-stewardship",
@@ -3918,9 +4435,9 @@
                     "url": "https://github.com/psu-stewardship/scholarsphere",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 346142,
+                        "Ruby": 321247,
                         "JavaScript": 6816,
-                        "CSS": 25678,
+                        "CSS": 26539,
                         "Shell": 8761
                     }
                 },
@@ -3937,7 +4454,7 @@
                     "url": "https://github.com/psu-stewardship/hydra-head",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 235407
+                        "Ruby": 238043
                     }
                 },
                 {
@@ -4029,9 +4546,9 @@
                     "url": "https://github.com/psu-stewardship/sufia",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 608552,
-                        "JavaScript": 50448,
-                        "CSS": 22637
+                        "Ruby": 605656,
+                        "JavaScript": 49287,
+                        "CSS": 24149
                     }
                 },
                 {
@@ -4056,7 +4573,7 @@
                     "url": "https://github.com/psu-stewardship/hydra-collections",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 68385,
+                        "Ruby": 68630,
                         "JavaScript": 1863,
                         "CSS": 63
                     }
@@ -4157,14 +4674,14 @@
                     "url": "https://github.com/pulibrary/BlueMountain",
                     "primary_language": "XQuery",
                     "languages": {
-                        "XQuery": 178625,
-                        "CSS": 1223,
-                        "XSLT": 92842,
+                        "XQuery": 196377,
+                        "CSS": 1357,
+                        "XSLT": 95706,
                         "Makefile": 504,
                         "Python": 19865,
+                        "Emacs Lisp": 1615,
                         "Ruby": 6570,
-                        "Prolog": 133,
-                        "Emacs Lisp": 1615
+                        "Prolog": 133
                     }
                 },
                 {
@@ -4225,7 +4742,7 @@
                     "url": "https://github.com/pulibrary/loris",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "Python": 160286,
+                        "Python": 159715,
                         "Shell": 4197,
                         "CSS": 968,
                         "JavaScript": 615291
@@ -4316,14 +4833,6 @@
                     }
                 },
                 {
-                    "name": "marc_liberation",
-                    "url": "https://github.com/pulibrary/marc_liberation",
-                    "primary_language": "Python",
-                    "languages": {
-                        "Python": 19472
-                    }
-                },
-                {
                     "name": "arabic_mets",
                     "url": "https://github.com/pulibrary/arabic_mets",
                     "primary_language": null,
@@ -4403,6 +4912,14 @@
                     "url": "https://github.com/pulibrary/hydra-planning",
                     "primary_language": null,
                     "languages": {}
+                },
+                {
+                    "name": "pul-store-models",
+                    "url": "https://github.com/pulibrary/pul-store-models",
+                    "primary_language": "Ruby",
+                    "languages": {
+                        "Ruby": 52423
+                    }
                 }
             ]
         },
@@ -4449,7 +4966,7 @@
                     "url": "https://github.com/ryersonlibrary/minisis-xslt",
                     "primary_language": "XSLT",
                     "languages": {
-                        "XSLT": 5885
+                        "XSLT": 6172
                     }
                 },
                 {
@@ -4457,7 +4974,7 @@
                     "url": "https://github.com/ryersonlibrary/islandora_chef",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 66410
+                        "Ruby": 70288
                     }
                 },
                 {
@@ -4577,7 +5094,7 @@
                     "url": "https://github.com/adsabs/adsabs",
                     "primary_language": "Python",
                     "languages": {
-                        "Python": 770340,
+                        "Python": 770608,
                         "CoffeeScript": 119530,
                         "JavaScript": 463658,
                         "CSS": 165055,
@@ -4620,7 +5137,8 @@
                     "url": "https://github.com/adsabs/adsdata",
                     "primary_language": "Python",
                     "languages": {
-                        "Python": 180509,
+                        "Python": 182710,
+                        "Puppet": 1276,
                         "Shell": 2346,
                         "Makefile": 44
                     }
@@ -4798,9 +5316,9 @@
                     "url": "https://github.com/adsabs/bumblebee",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "JavaScript": 1608760,
+                        "JavaScript": 1749681,
                         "Puppet": 1381,
-                        "CSS": 88288
+                        "CSS": 63985
                     }
                 }
             ]
@@ -5066,7 +5584,7 @@
                     "url": "https://github.com/sul-dlss/dor-services",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 564569,
+                        "Ruby": 619509,
                         "XSLT": 87640
                     }
                 },
@@ -5118,7 +5636,7 @@
                     "url": "https://github.com/sul-dlss/digital-stacks",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 135706
+                        "Ruby": 142437
                     }
                 },
                 {
@@ -5136,7 +5654,7 @@
                     "url": "https://github.com/sul-dlss/mods",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 363133
+                        "Ruby": 363447
                     }
                 },
                 {
@@ -5144,7 +5662,7 @@
                     "url": "https://github.com/sul-dlss/stanford-mods",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 169668
+                        "Ruby": 170181
                     }
                 },
                 {
@@ -5152,10 +5670,10 @@
                     "url": "https://github.com/sul-dlss/revs",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 421676,
+                        "Ruby": 429088,
                         "JavaScript": 31255,
                         "CSS": 69801,
-                        "Shell": 18275,
+                        "Shell": 18276,
                         "XSLT": 46036
                     }
                 },
@@ -5291,8 +5809,8 @@
                     "url": "https://github.com/ualbertalib/sfx2sirsi",
                     "primary_language": "PHP",
                     "languages": {
-                        "Ruby": 18784,
                         "Shell": 690,
+                        "Ruby": 19523,
                         "PHP": 47755
                     }
                 },
@@ -5367,8 +5885,8 @@
                     "url": "https://github.com/ualbertalib/bpsc.library.ualberta.ca",
                     "primary_language": "PHP",
                     "languages": {
-                        "PHP": 1552469,
-                        "CSS": 80683,
+                        "PHP": 1542618,
+                        "CSS": 81289,
                         "JavaScript": 31652
                     }
                 },
@@ -5411,7 +5929,7 @@
                     "url": "https://github.com/ualbertalib/docker-swift",
                     "primary_language": "Shell",
                     "languages": {
-                        "Shell": 3079
+                        "Shell": 3337
                     }
                 },
                 {
@@ -5464,9 +5982,9 @@
                     "url": "https://github.com/ualibraries/Guide-on-the-Side",
                     "primary_language": "PHP",
                     "languages": {
-                        "PHP": 2712007,
+                        "PHP": 3143586,
                         "Python": 3979,
-                        "CSS": 81583,
+                        "CSS": 81726,
                         "JavaScript": 105001
                     }
                 },
@@ -5533,6 +6051,16 @@
                         "CSS": 18924,
                         "JavaScript": 17620
                     }
+                },
+                {
+                    "name": "catalog-search",
+                    "url": "https://github.com/ualibraries/catalog-search",
+                    "primary_language": "CSS",
+                    "languages": {
+                        "CSS": 7147,
+                        "JavaScript": 545,
+                        "PHP": 185
+                    }
                 }
             ]
         },
@@ -5562,9 +6090,9 @@
                     "primary_language": "Java",
                     "languages": {
                         "CSS": 17129,
+                        "XSLT": 42744,
                         "JavaScript": 116010,
-                        "Java": 698234,
-                        "XSLT": 40677
+                        "Java": 698323
                     }
                 },
                 {
@@ -5586,7 +6114,7 @@
                     "url": "https://github.com/ucsdlib/damspas",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 888350,
+                        "Ruby": 889520,
                         "JavaScript": 32124,
                         "CoffeeScript": 422,
                         "CSS": 41266
@@ -5651,7 +6179,7 @@
                     "url": "https://github.com/UMNLibraries/dpla.client",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 136782,
+                        "Ruby": 151130,
                         "CoffeeScript": 1899,
                         "JavaScript": 749,
                         "CSS": 4117
@@ -5662,7 +6190,7 @@
                     "url": "https://github.com/UMNLibraries/dpla.services",
                     "primary_language": "Ruby",
                     "languages": {
-                        "Ruby": 86124,
+                        "Ruby": 86218,
                         "CoffeeScript": 211,
                         "JavaScript": 664,
                         "CSS": 724
@@ -5922,9 +6450,9 @@
                     "url": "https://github.com/UNC-Libraries/Carolina-Digital-Repository",
                     "primary_language": "Java",
                     "languages": {
-                        "Ruby": 6402,
-                        "Makefile": 2828,
-                        "Java": 3171715,
+                        "Ruby": 6682,
+                        "Makefile": 2818,
+                        "Java": 3187271,
                         "XSLT": 487034,
                         "Shell": 15400,
                         "JavaScript": 5835,
@@ -6131,6 +6659,15 @@
                     "languages": {}
                 },
                 {
+                    "name": "audio-player",
+                    "url": "https://github.com/ui-libraries/audio-player",
+                    "primary_language": "JavaScript",
+                    "languages": {
+                        "CSS": 760,
+                        "JavaScript": 212233
+                    }
+                },
+                {
                     "name": "Scribe",
                     "url": "https://github.com/ui-libraries/Scribe",
                     "primary_language": "JavaScript",
@@ -6146,7 +6683,7 @@
                     "primary_language": "PHP",
                     "languages": {
                         "PHP": 220674,
-                        "CSS": 3610,
+                        "CSS": 11845,
                         "JavaScript": 2447
                     }
                 }
@@ -6248,9 +6785,9 @@
                     "url": "https://github.com/wellcomelibrary/player",
                     "primary_language": "JavaScript",
                     "languages": {
-                        "JavaScript": 4711910,
+                        "JavaScript": 4712458,
                         "CSS": 91841,
-                        "TypeScript": 167273
+                        "TypeScript": 167283
                     }
                 },
                 {
@@ -6783,8 +7320,8 @@
                     "url": "https://github.com/yorkulibraries/FedoraConnector",
                     "primary_language": "PHP",
                     "languages": {
-                        "PHP": 104656,
                         "JavaScript": 39408,
+                        "PHP": 104777,
                         "CSS": 466
                     }
                 },
@@ -6929,6 +7466,10 @@
         {
             "name": "Eric Phetteplace",
             "url": "https://github.com/phette23"
+        },
+        {
+            "name": "Ben Armintor",
+            "url": "https://github.com/barmintor"
         }
     ]
 }
