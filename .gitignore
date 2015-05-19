@@ -3,3 +3,5 @@ data/*
 !data/lines.csv
 !data/primaries.csv
 !data/repos.json
+!data/summary.csv
+
