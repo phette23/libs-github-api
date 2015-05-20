@@ -1,0 +1,55 @@
+{
+    "name": "libs-github-api",
+    "description": "Summary statistics on programming languages used in libraries via the code in their GitHub projects.",
+    "license": "CC0 Public Domain",
+    "keywords": ["programming languages", "coding", "libraries", "library and information science", "GitHub"],
+    "resources": [
+        {
+            "name": "summary",
+            "path": "data/summary.csv",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "language",
+                        "type": "string",
+                        "description": "the name of the programming language",
+                        "constraints": {
+                            "required": true,
+                            "unique": true
+                        }
+                    },
+                    {
+                        "name": "repos appeared in",
+                        "type": "integer",
+                        "description": "number of GitHub repositories in the sample in which the language was used",
+                        "constraints": {
+                            "required": true,
+                            "minimum": 0
+                        }
+                    },
+                    {
+                        "name": "primary language in repo",
+                        "type": "integer",
+                        "description": "number of GitHub repositories in the sample for which the language was considered the primary language by GitHub's API",
+                        "constraints": {
+                            "required": true,
+                            "minimum": 0
+                        }
+                    },
+                    {
+                        "name": "total lines across repos",
+                        "type": "integer",
+                        "description": "sum of lines of code written in the language across all repositories in the sample",
+                        "constraints": {
+                            "required": true,
+                            "minimum": 0
+                        }
+                    }
+                ],
+                "primaryKey": "language"
+            }
+        }
+    ]
+}
