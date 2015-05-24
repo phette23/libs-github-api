@@ -39,9 +39,9 @@
                         }
                     },
                     {
-                        "name": "total lines across repos",
+                        "name": "total bytes across repos",
                         "type": "integer",
-                        "description": "sum of lines of code written in the language across all repositories in the sample",
+                        "description": "sum of bytes of code written in the language across all repositories in the sample",
                         "constraints": {
                             "required": true,
                             "minimum": 0
