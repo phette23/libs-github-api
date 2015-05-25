@@ -1,6 +1,6 @@
 # Analysis of Library GitHub Projects
 
-![DOI 10.5281/zenodo.17790.svg](https://zenodo.org/badge/doi/10.5281/zenodo.17790.svg)
+![DOI 10.5281/zenodo.17912.svg](https://zenodo.org/badge/doi/10.5281/zenodo.17912.svg)
 
 Bulk analyzing programming languages used in libraries via the code in their GitHub projects. Extracted data is included in the "data" directory, which holds some JSON information on library GitHub repositories and a couple CSVs on the programming languages used therein.
 
