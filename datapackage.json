@@ -2,6 +2,7 @@
     "name": "libs-github-api",
     "description": "Summary statistics on programming languages used in libraries via the code in their GitHub projects.",
     "license": "CC0 Public Domain",
+    "doi": "10.5281/zenodo.17912",
     "keywords": ["programming languages", "coding", "libraries", "library and information science", "GitHub"],
     "resources": [
         {
